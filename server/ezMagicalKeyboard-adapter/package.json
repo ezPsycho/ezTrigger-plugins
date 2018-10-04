@@ -1,0 +1,10 @@
+{
+  "name": "ezmagicalkeyboard-adapter",
+  "version": "0.0.1",
+  "description": "The ezMagicalKeyboard adapter for ezTrigger system.",
+  "main": "main.js",
+  "author": "Losses Don",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
