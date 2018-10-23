@@ -1,0 +1,11 @@
+{
+  "name": "psychopy-adapter",
+  "version": "0.0.1",
+  "description": "The psychoPy adapter for ezTrigger system.",
+  "main": "main.js",
+  "author": "Losses Don",
+  "license": "MIT",
+  "dependencies": {
+    "@ez-trigger/server": "https://github.com/ezPsycho/ezTrigger-server.git"
+  }
+}
